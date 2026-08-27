@@ -5,12 +5,6 @@ Software developer based in Costa Rica, building backend and full-stack systems 
 ### 🔭 What I'm building
 Currently building **CRAIA's client platform** — a booking & client-management system for consulting businesses (Node.js/Fastify, PostgreSQL, Docker, automated CI with architecture and integration tests). My work includes the plans-management screen, consultant scheduling, and console operator tools. (Private repo — happy to walk through the code in an interview.)
 
-### 🧪 Other projects
-- **[hormigas_simulacion](https://github.com/cristopherarauzalvarado-code/hormigas_simulacion)** — discrete simulation of an ant-colony foraging model (graph theory) · Python
-- **[simulador-pendulo-balistico-grupoC](https://github.com/cristopherarauzalvarado-code/simulador-pendulo-balistico-grupoC)** — ballistic pendulum physics simulator · Python
-- **[motor_fisico](https://github.com/cristopherarauzalvarado-code/motor_fisico)** — 2D physics/game prototype built in Godot · GDScript
-- **[simulaciones-fisica](https://github.com/cristopherarauzalvarado-code/simulaciones-fisica)** — physics simulations · HTML/JS
-
 ### 🛠️ Tech stack
 TypeScript · Node.js · Fastify · PostgreSQL · Docker · Python · C++ · Git/GitHub Actions
 
