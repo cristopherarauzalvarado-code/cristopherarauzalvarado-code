@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Cristopher 👋
 
-<!--
-**cristopherarauzalvarado-code/cristopherarauzalvarado-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer based in Costa Rica, building backend and full-stack systems with TypeScript/Node.js.
 
-Here are some ideas to get you started:
+### 🔭 What I'm building
+Currently building **CRAIA's client platform** — a booking & client-management system for consulting businesses (Node.js/Fastify, PostgreSQL, Docker, automated CI with architecture and integration tests). My work includes the plans-management screen, consultant scheduling, and console operator tools. (Private repo — happy to walk through the code in an interview.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 Other projects
+- **[hormigas_simulacion](https://github.com/cristopherarauzalvarado-code/hormigas_simulacion)** — discrete simulation of an ant-colony foraging model (graph theory) · Python
+- **[simulador-pendulo-balistico-grupoC](https://github.com/cristopherarauzalvarado-code/simulador-pendulo-balistico-grupoC)** — ballistic pendulum physics simulator · Python
+- **[motor_fisico](https://github.com/cristopherarauzalvarado-code/motor_fisico)** — 2D physics/game prototype built in Godot · GDScript
+- **[simulaciones-fisica](https://github.com/cristopherarauzalvarado-code/simulaciones-fisica)** — physics simulations · HTML/JS
+
+### 🛠️ Tech stack
+TypeScript · Node.js · Fastify · PostgreSQL · Docker · Python · C++ · Git/GitHub Actions
+
+### 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/cristopher-osiel-arauz-alvarado-150b8227b) · cristopherarauzalvarado@gmail.com
